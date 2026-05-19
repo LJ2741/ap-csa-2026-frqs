@@ -5,6 +5,6 @@ When approaching this question I quickly realized that a while loop using the he
 ### Course Connections
 In class we have had multiple problems which involve looping until a condition is true. In these cases we use a while loop which is why I decided to use one as part of my solution.
 ### What Gave Me Trouble
-
-
+The main problem which gave me trouble was finding how to change the username while keeping the input in the while loop changing every iteration. I then realized that I could use the constuctor's parameter to update the username variable and keep the username variable as part of the while loop's input.
 ### What I Would Do Differently
+
