@@ -7,4 +7,4 @@ In class we have had multiple problems which involve looping until a condition i
 ### What Gave Me Trouble
 The main problem which gave me trouble was finding how to change the username while keeping the input in the while loop changing every iteration. I then realized that I could use the constuctor's parameter to update the username variable and keep the username variable as part of the while loop's input.
 ### What I Would Do Differently
-
+If I had more time I would rename the i variable to something more readable.
